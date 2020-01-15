@@ -3529,6 +3529,36 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8012737719733764356, guid: d01cd2ed5d4e4144fb011b91aba701db,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8012737719733764356, guid: d01cd2ed5d4e4144fb011b91aba701db,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8012737719733764356, guid: d01cd2ed5d4e4144fb011b91aba701db,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8012737719733764356, guid: d01cd2ed5d4e4144fb011b91aba701db,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8012737720102594775, guid: d01cd2ed5d4e4144fb011b91aba701db,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8012737720102594775, guid: d01cd2ed5d4e4144fb011b91aba701db,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8012737720359943307, guid: d01cd2ed5d4e4144fb011b91aba701db,
         type: 3}
       propertyPath: m_AnchorMin.y
@@ -3552,6 +3582,16 @@ PrefabInstance:
     - target: {fileID: 8012737720528820143, guid: d01cd2ed5d4e4144fb011b91aba701db,
         type: 3}
       propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8012737720684796362, guid: d01cd2ed5d4e4144fb011b91aba701db,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8012737720684796362, guid: d01cd2ed5d4e4144fb011b91aba701db,
+        type: 3}
+      propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8012737720726475844, guid: d01cd2ed5d4e4144fb011b91aba701db,
