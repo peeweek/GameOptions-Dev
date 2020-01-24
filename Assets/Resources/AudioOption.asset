@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 62f4e0bc96fc28a4cbead1f6f1d48d7b, type: 3}
-  m_Name: AudioOptions
+  m_Name: AudioOption
   m_EditorClassIdentifier: 
   m_AudioMixer: {fileID: 24100000, guid: 01a2fc48e04be4640b87a17537e13983, type: 2}
   m_Parameters:

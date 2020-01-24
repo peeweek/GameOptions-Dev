@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c212e8504825f5d4cb574c36aa746173, type: 3}
-  m_Name: GraphicOptions
+  m_Name: GraphicOption
   m_EditorClassIdentifier: 
   m_DefaultFullScreenMode: 1
   m_DefaultVSync: 1
@@ -19,3 +19,4 @@ MonoBehaviour:
   m_DefaultWidth: 1280
   m_DefaultHeight: 720
   m_DefaultRefreshRate: 60
+  m_DefaultMonitor: 0
